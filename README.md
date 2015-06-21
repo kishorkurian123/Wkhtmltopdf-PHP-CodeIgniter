@@ -5,7 +5,7 @@ Orginal PHP Wrapper is from :
 
 https://github.com/aur1mas/Wkhtmltopdf/
 
-I just added very few tweaks to get it fine and running with Code Igniter.
+I just had to tweak it a littlebit to get it up and running with Code Igniter.
 
 #Installation and Use
 
