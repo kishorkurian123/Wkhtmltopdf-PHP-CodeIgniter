@@ -9,6 +9,6 @@ I just had to tweak it a littlebit to get it up and running with Code Igniter.
 
 #Installation and Use
 
-I have written a simple how to here : http://repulsor.me/installing-wkhtmltopdf-and-using-wkhtmltopdf-in-codeigniter/
+I have written a simple how to here : http://kishorkurian.me/installing-wkhtmltopdf-and-using-wkhtmltopdf-in-codeigniter/
 
 Hope this will be useful.
