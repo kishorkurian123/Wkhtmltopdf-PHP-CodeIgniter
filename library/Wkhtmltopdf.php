@@ -10,9 +10,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 | For complete instructions on how to use the library,please check the readme file.
 | 
-|   Author  : Kishor Kurian aka Repulsor
-|   Email   : repulsor2013@gmail.com
-|   Contact : repulsorbhw (Skype)
+|   Author  : Kishor Kurian
+|   https://github.com/kishorkurian123
 |
 |  “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 |   -Martin Fowler
